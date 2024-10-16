@@ -23,3 +23,7 @@ python fingerprint_matching.py
 When prompted, select the sample fingerprint image file (e.g., 1_M_Left_index_finger_Obl.BMP).
 Next, select the folder that contains the real fingerprint images.
 The program will process the images and display the best match along with its score.
+
+
+For Dataset use:-
+https://www.kaggle.com/datasets/ruizgara/socofing
